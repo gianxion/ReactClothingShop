@@ -1,0 +1,2 @@
+to run this project you ll have to open vscode from the root file and see those folders admin , eccomerce api and react-shop you can do that by typing on the path of windows explorer cmd . and inside the window that pops up code . to open on vscode from this folder
+from there open 2 terminals on vscode and type the following on 1: cd .\ECOMMERCEAPI\  and then node .\index.js  on terminal 2: cd .\react-shop\ and npm run dev
